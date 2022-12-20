@@ -6,5 +6,6 @@ public class Main {
         System.out.println("   `~\\/");
         System.out.println("      |");
         System.out.println("      |");
+        // 커밋 수정
     }
 }
