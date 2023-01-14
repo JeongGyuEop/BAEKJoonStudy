@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/baekjoon_10950/baekjoon_10950.iml" filepath="$PROJECT_DIR$/baekjoon_10950/baekjoon_10950.iml" />
       <module fileurl="file://$PROJECT_DIR$/baekjoon_2739/baekjoon_2739.iml" filepath="$PROJECT_DIR$/baekjoon_2739/baekjoon_2739.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baekjoon_8393/baekjoon_8393.iml" filepath="$PROJECT_DIR$/baekjoon_8393/baekjoon_8393.iml" />
       <module fileurl="file://$PROJECT_DIR$/level_3.iml" filepath="$PROJECT_DIR$/level_3.iml" />
     </modules>
   </component>
