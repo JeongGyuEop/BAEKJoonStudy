@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/baekjoon_1000/baekjoon_1000.iml" filepath="$PROJECT_DIR$/baekjoon_1000/baekjoon_1000.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baekjoon_1001/baekjoon_1001.iml" filepath="$PROJECT_DIR$/baekjoon_1001/baekjoon_1001.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baekjoon_1008/baekjoon_1008.iml" filepath="$PROJECT_DIR$/baekjoon_1008/baekjoon_1008.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baekjoon_10171/baekjoon_10171.iml" filepath="$PROJECT_DIR$/baekjoon_10171/baekjoon_10171.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baekjoon_10172/baekjoon_10172.iml" filepath="$PROJECT_DIR$/baekjoon_10172/baekjoon_10172.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baekjoon_10430/baekjoon_10430.iml" filepath="$PROJECT_DIR$/baekjoon_10430/baekjoon_10430.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baekjoon_10869/baekjoon_10869.iml" filepath="$PROJECT_DIR$/baekjoon_10869/baekjoon_10869.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baekjoon_10926/baekjoon_10926.iml" filepath="$PROJECT_DIR$/baekjoon_10926/baekjoon_10926.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baekjoon_10998/baekjoon_10998.iml" filepath="$PROJECT_DIR$/baekjoon_10998/baekjoon_10998.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baekjoon_18108/baekjoon_18108.iml" filepath="$PROJECT_DIR$/baekjoon_18108/baekjoon_18108.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baekjoon_25083/baekjoon_25083.iml" filepath="$PROJECT_DIR$/baekjoon_25083/baekjoon_25083.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baekjoon_2588/baekjoon_2588.iml" filepath="$PROJECT_DIR$/baekjoon_2588/baekjoon_2588.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baekjoon_3003/baekjoon_3003.iml" filepath="$PROJECT_DIR$/baekjoon_3003/baekjoon_3003.iml" />
-      <module fileurl="file://$PROJECT_DIR$/level_1.iml" filepath="$PROJECT_DIR$/level_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BAEKJoonStudy.iml" filepath="$PROJECT_DIR$/.idea/BAEKJoonStudy.iml" />
     </modules>
   </component>
 </project>

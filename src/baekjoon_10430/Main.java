@@ -1,3 +1,5 @@
+package src.baekjoon_10430;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -11,12 +13,12 @@ public class Main {
 
         int a = Integer.parseInt(st.nextToken());
         int b = Integer.parseInt(st.nextToken());
+        int c = Integer.parseInt(st.nextToken());
 
-        System.out.println(a+b); // 덧셈
-        System.out.println(a-b); // 뺄셈
-        System.out.println(a*b); // 곱셈
-        System.out.println(a/b); // 나누기(몫)
-        System.out.println(a%b); // 나누기(나머지)
+        System.out.println((a+b)%c);
+        System.out.println(((a%c)+(b%c))%c);
+        System.out.println((a*b)%c);
+        System.out.println(((a%c)*(b%c))%c);
 
     }
 }

@@ -1,3 +1,5 @@
+package src.baekjoon_1008;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -9,14 +11,12 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
-        int a = Integer.parseInt(st.nextToken());
-        int b = Integer.parseInt(st.nextToken());
-        int c = Integer.parseInt(st.nextToken());
+        double a = Double.parseDouble(st.nextToken());
+        double b = Double.parseDouble(st.nextToken());
+        // 문제에서 원하는 출력범위를 맞추기 위해서 자료형을 Double형을 사용해야 한다.
 
-        System.out.println((a+b)%c);
-        System.out.println(((a%c)+(b%c))%c);
-        System.out.println((a*b)%c);
-        System.out.println(((a%c)*(b%c))%c);
+
+        System.out.print(a/b);
 
     }
 }
