@@ -11,6 +11,6 @@ public class Main {
         int numA = Integer.parseInt(new StringBuilder(st.nextToken()).reverse().toString());
         int numB = Integer.parseInt(new StringBuilder(st.nextToken()).reverse().toString());
 
-        System.out.println(numA > numB ? numA : numB);
+        System.out.println(numA > numB ? numA : numB);//
     }
 }
