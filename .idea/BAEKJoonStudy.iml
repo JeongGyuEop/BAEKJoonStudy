@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/baekjoon_1000/src" />
+      <excludeFolder url="file://$MODULE_DIR$/baekjoon_1001/src" />
+      <excludeFolder url="file://$MODULE_DIR$/baekjoon_1008/src" />
+      <excludeFolder url="file://$MODULE_DIR$/baekjoon_10171/src" />
+      <excludeFolder url="file://$MODULE_DIR$/baekjoon_10172/src" />
+      <excludeFolder url="file://$MODULE_DIR$/baekjoon_10430/src" />
+      <excludeFolder url="file://$MODULE_DIR$/baekjoon_10869/src" />
+      <excludeFolder url="file://$MODULE_DIR$/baekjoon_10926/src" />
+      <excludeFolder url="file://$MODULE_DIR$/baekjoon_10998/src" />
+      <excludeFolder url="file://$MODULE_DIR$/baekjoon_18108/src" />
+      <excludeFolder url="file://$MODULE_DIR$/baekjoon_2588/src" />
+      <excludeFolder url="file://$MODULE_DIR$/baekjoon_3003/src" />
+      <excludeFolder url="file://$MODULE_DIR$/src/baekjoon_1000/src" />
+      <excludeFolder url="file://$MODULE_DIR$/src/baekjoon_1001/src" />
+      <excludeFolder url="file://$MODULE_DIR$/src/baekjoon_1008/src" />
+      <excludeFolder url="file://$MODULE_DIR$/src/baekjoon_10171/src" />
+      <excludeFolder url="file://$MODULE_DIR$/src/baekjoon_10172/src" />
+      <excludeFolder url="file://$MODULE_DIR$/src/baekjoon_10430/src" />
+      <excludeFolder url="file://$MODULE_DIR$/src/baekjoon_10869/src" />
+      <excludeFolder url="file://$MODULE_DIR$/src/baekjoon_10926/src" />
+      <excludeFolder url="file://$MODULE_DIR$/src/baekjoon_10998/src" />
+      <excludeFolder url="file://$MODULE_DIR$/src/baekjoon_18108/src" />
+      <excludeFolder url="file://$MODULE_DIR$/src/baekjoon_25083/src" />
+      <excludeFolder url="file://$MODULE_DIR$/src/baekjoon_2588/src" />
+      <excludeFolder url="file://$MODULE_DIR$/src/baekjoon_3003/src" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

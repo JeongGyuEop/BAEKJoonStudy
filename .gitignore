@@ -26,6 +26,7 @@ bin/
 .vscode/
 
 ### Mac OS ###
+<<<<<<< HEAD
 .DS_Store### Example user template template
 ### Example user template
 
@@ -36,3 +37,6 @@ out/
 gen/
 .gradle/
 build/
+=======
+.DS_Store
+>>>>>>> level_2
