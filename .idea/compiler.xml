@@ -10,6 +10,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="test" target="17" />
+      <module name="baekjoon_10810" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
