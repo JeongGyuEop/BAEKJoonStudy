@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/baekjoon_1330/baekjoon_1330.iml" filepath="$PROJECT_DIR$/baekjoon_1330/baekjoon_1330.iml" />
       <module fileurl="file://$PROJECT_DIR$/baekjoon_14681/baekjoon_14681.iml" filepath="$PROJECT_DIR$/baekjoon_14681/baekjoon_14681.iml" />
       <module fileurl="file://$PROJECT_DIR$/baekjoon_2525/baekjoon_2525.iml" filepath="$PROJECT_DIR$/baekjoon_2525/baekjoon_2525.iml" />
@@ -47,6 +48,10 @@
       <module fileurl="file://$PROJECT_DIR$/baekjoon_5622/baekjoon_5622.iml" filepath="$PROJECT_DIR$/baekjoon_5622/baekjoon_5622.iml" />
       <module fileurl="file://$PROJECT_DIR$/baekjoon_9086/baekjoon_9086.iml" filepath="$PROJECT_DIR$/baekjoon_9086/baekjoon_9086.iml" />
       <module fileurl="file://$PROJECT_DIR$/level_5.iml" filepath="$PROJECT_DIR$/level_5.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/baekjoon_10988/baekjoon_10988.iml" filepath="$PROJECT_DIR$/baekjoon_10988/baekjoon_10988.iml" />
+      <module fileurl="file://$PROJECT_DIR$/level_6.iml" filepath="$PROJECT_DIR$/level_6.iml" />
+>>>>>>> level_6
     </modules>
   </component>
 </project>
