@@ -9,12 +9,6 @@
       <sourceFolder url="file://$MODULE_DIR$/baekjoon_1316" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon_10988" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/baekjoon_25206" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Level_1" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Level_2" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Level_3" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Level_4" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Level_5" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Level_6" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
