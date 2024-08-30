@@ -1,7 +1,6 @@
 package baekjoon_11022;
 
 import java.io.*;
-import java.nio.Buffer;
 import java.util.StringTokenizer;
 
 public class Main {
