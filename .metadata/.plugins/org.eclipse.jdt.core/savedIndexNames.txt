@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\study_baekjoon\.metadata\.plugins\org.eclipse.jdt.core
-2281476874.index
-4059041577.index
-1865797976.index
