@@ -1,0 +1,22 @@
+package src;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+public class MaxNum {
+    public static void main (String[] args) throws IOException {
+
+        int maxNum = 0;
+        int[] maxNumIdx;
+
+        for(int i=0; i<9; i++) {
+            maxNum = Integer.parseInt(input);
+        }
+
+        System.out.println(maxNum);
+
+
+    }
+
+}

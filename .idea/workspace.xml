@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a131b192-3d6e-4f62-8b8c-4fc90764daa7" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="level_4" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JeongGyuEop&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="Baekjoon-solve-24/08/29" />
+                    <option name="lastUsedInstant" value="1724897772" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1724738675" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JeongGyuEop/BAEKJoonStudy.git&quot;,
+    &quot;accountId&quot;: &quot;5083c235-b96c-44ae-84dc-d01c3cf839cc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+    &quot;customColor&quot;: &quot;&quot;,
+    &quot;associatedIndex&quot;: 2
+    }</component>
+  <component name="ProjectId" id="2k6S1gq4aw65i9ubNHrGHttUJlC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/study_baekjoon",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.색 구성표 글꼴",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.AddMatrix.executor": "Run",
+    "애플리케이션.Chess.executor": "Run",
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.MaxNum.executor": "Run",
+    "애플리케이션.Sprout.executor": "Run",
+    "애플리케이션.StarCount.executor": "Run",
+    "애플리케이션.baekjoon_1000.Main.executor": "Run",
+    "애플리케이션.baekjoon_10172.Main.executor": "Run",
+    "애플리케이션.baekjoon_10926.Main.executor": "Run",
+    "애플리케이션.baekjoon_18108.Main.executor": "Run",
+    "애플리케이션.baekjoon_2588.Main.executor": "Run",
+    "애플리케이션.src.baekjoon_1008.Main.executor": "Run",
+    "애플리케이션.src.baekjoon_10171.Main.executor": "Run",
+    "애플리케이션.src.baekjoon_10430.Main.executor": "Run",
+    "애플리케이션.src.baekjoon_10869.Main.executor": "Run",
+    "애플리케이션.src.baekjoon_10926.Main.executor": "Run",
+    "애플리케이션.src.baekjoon_10998.Main.executor": "Run",
+    "애플리케이션.src.baekjoon_3003.Main.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\study_baekjoon\Level_7\baekjoon_2738" />
+      <recent name="C:\study_baekjoon\Level_6\baekjoon_25206" />
+      <recent name="C:\study_baekjoon\Level_6\baekjoon_25083" />
+      <recent name="C:\study_baekjoon\Level_6\baekjoon_3003" />
+      <recent name="C:\study_baekjoon\Level_6\baekjoon_2444" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="a131b192-3d6e-4f62-8b8c-4fc90764daa7" name="변경" comment="" />
+      <created>1722602321577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722602321577</updated>
+      <workItem from="1722602324214" duration="110000" />
+      <workItem from="1722602445258" duration="645000" />
+      <workItem from="1724509380995" duration="109000" />
+      <workItem from="1724509698255" duration="173000" />
+      <workItem from="1724509889198" duration="101000" />
+      <workItem from="1724509998992" duration="125000" />
+      <workItem from="1724510391106" duration="382000" />
+      <workItem from="1724510844876" duration="880000" />
+      <workItem from="1724511756197" duration="123000" />
+      <workItem from="1724572252478" duration="5126000" />
+      <workItem from="1724595444266" duration="241000" />
+      <workItem from="1724595733601" duration="92000" />
+      <workItem from="1724672154822" duration="606000" />
+      <workItem from="1724686141812" duration="1651000" />
+      <workItem from="1724723747641" duration="9165000" />
+      <workItem from="1724823560516" duration="62000" />
+      <workItem from="1724823673360" duration="1691000" />
+      <workItem from="1724897663915" duration="6483000" />
+      <workItem from="1724980552193" duration="5000" />
+      <workItem from="1724981392600" duration="24000" />
+      <workItem from="1724981455207" duration="3000" />
+      <workItem from="1724996291441" duration="426000" />
+      <workItem from="1725033676627" duration="691000" />
+      <workItem from="1725035232416" duration="729000" />
+      <workItem from="1725037356960" duration="138000" />
+      <workItem from="1725099435210" duration="2057000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
