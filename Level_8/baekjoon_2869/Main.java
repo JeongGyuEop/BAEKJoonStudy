@@ -33,7 +33,7 @@ public class Main {
 			result++;
 		}
 		
-		// 결과 출
+		// 결과 출력
 		System.out.println(result);
 		
 	}
