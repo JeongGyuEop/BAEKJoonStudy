@@ -9,9 +9,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
         
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        String input = br.readLine();
         if (input != null && !input.isEmpty()) {
-            int n = Integer.parseInt(input);
             String number = br.readLine();
         
             int sum = 0;
